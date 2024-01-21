@@ -1,6 +1,6 @@
- # Neo
+<H> Neo
 
-Neo is an unciv mod based on a book/story I'm writing. I felt like I wanted a way to actually give my story a meaning because I'm not skilled enough to make my own game
+<p> Neo is an unciv mod based on a book/story I'm writing. I felt like I wanted a way to actually give my story a meaning because I'm not skilled enough to make my own game
 
 The lore for nations, units, ect... are all either direct copies or changed slightly from their in universe counterpart. I would appreciate help coding and creating ideas, anyone may help as long as they do not ruin the mod for everyone else, I really would appreciate the help
 
