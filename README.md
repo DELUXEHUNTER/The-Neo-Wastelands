@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Kyron mod
+January 21st 2024 - This is still the template
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This is project is my first mod I have ever made and I hope I can do my best. And I hope to have some help making this one day, by anyone who might offer it. 
