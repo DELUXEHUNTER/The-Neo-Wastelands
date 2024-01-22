@@ -1,5 +1,10 @@
 [
-	
+	//Spectator
+	{
+        "name": "Spectator",
+        "outerColor": [255,255,255]
+    },
+
 	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
@@ -77,10 +82,5 @@
         "outerColor": [0,0,0],
         "innerColor": [184,0,0],
         "uniques": ["Can only heal by pillaging", "Excluded from map editor"]
-    },
-//Spectator
-	 {
-        "name": "Spectator",
-        "outerColor": [255,255,255]
     }
 		]
