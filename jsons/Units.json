@@ -8,8 +8,8 @@
 		"range": 1,
 		"cost": 34,
 		"requiredTech": "Ballistics",
-		"obsoletetech": "iron",
-		"requiredResource": "",
+		"obsoletetech": "",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"upgradesto": "", 
 		"attackSound": ""
