@@ -49,7 +49,7 @@
 		"declaringWar": "Offensive Protocols initiated",
 		"attacked": "Defense Protocols initiated",
 		"defeated": "TIDE Protocols initiated. Self destruction imminent ",
-		"introduction": "The .",
+		"introduction": "The.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -67,18 +67,18 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo"]
+		"cities": ["Neo", "Kyron"]
 	},
 
 
-
+//Barbarian 
 	{
-        "name": "",
+        "name": "Babrarian",
         "outerColor": [0,0,0],
         "innerColor": [184,0,0],
         "uniques": ["Can only heal by pillaging"]
     },
-
+//Spectator
 	 {
         "name": "Spectator",
         "outerColor": [255,255,255]
