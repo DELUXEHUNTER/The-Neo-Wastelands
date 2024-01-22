@@ -1,4 +1,3 @@
-This mod is made and maintained by me Deacon and is made using the mod template and inspired by alpha frontier. Once I add more content and people contribute to this mod I will give credit to them. 
 
 
 
