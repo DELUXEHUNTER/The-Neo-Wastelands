@@ -1,4 +1,4 @@
- This mod is made and maintained by me Deacon and is made using the mod template and inspired by alpha frontier 
+This mod is made and maintained by me Deacon and is made using the mod template and inspired by alpha frontier. Once I add more content and people contribute to this mod I will give credit to them. 
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+The following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 * [alien] (https://thenounproject.com/term/alien/1820539) by Minh Do
 * [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
