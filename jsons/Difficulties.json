@@ -11,7 +11,7 @@
 		"policyCostModifier": 0.5,
 		"unhappinessModifier": 0.3,
 		"barbarianBonus": 0.75,
-		"barbarianSpawnDelay": 8,
+		"barbarianSpawnDelay": 9,
 		"playerBonusStartingUnits": [], 
 		"aiCityGrowthModifier": 1.6,
 		"aiUnitCostModifier": 1.75,
@@ -28,14 +28,7 @@
 		"turnBarbariansCanEnterPlayerTiles": 100,
 		"clearBarbarianCampReward": 56
 	},
-
-
-
-
-
-
-
-
+	
 	{
 		"name": "Architect",
 		"baseHappiness": 12,
@@ -66,6 +59,9 @@
 		"clearBarbarianCampReward": 40
 	},
     
+
+
+
 	{
 		"name": "Authorized Settler",
 		"baseHappiness": 12,
