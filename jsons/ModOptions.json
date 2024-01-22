@@ -1,8 +1,6 @@
 {
-    "isbaseruleset": true,
-//remove after this testing.
-
-
 "isBaseRuleset":true,
-"modUrl":"https://github.com/carriontrooper/Alpha-Frontier","defaultBranch":"main","author":"Deacon","modSize":9871,"topics":["unciv-mod","unciv-mod-rulesets"],
+"modUrl":"https://github.com/carriontrooper/Alpha-Frontier",
+"defaultBranch":"main","author":"Deacon",
+"topics":["unciv-mod","unciv-mod-rulesets","unciv-"]
 }
