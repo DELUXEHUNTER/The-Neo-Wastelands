@@ -5,14 +5,15 @@
 		"uniqueTo": "Neo Colony",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
+		"strength": 9,
+		"range": 1,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": ,
+		"obsoletetech": "",
+		"requiredResource": "",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": 
+		"upgradesto": "", 
+		"attackSound": ""
 	},
 	
 

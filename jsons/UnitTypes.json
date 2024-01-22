@@ -1,18 +1,31 @@
 [
-    //Neo Specific
+    //Neo Specific.
+    { 
+    "name":"Recruit level operator",
+    "movementType": "Land",
+     "uniques":["Can transform to []"],
+     "uniqueTo": "Neo Colony"
+    },
+
     { 
     "name":"First level operator",
     "movementType": "Land",
     "uniques":["Can transform to []"],
     "uniqueTo": "Neo Colony"
-}
+},
 {
     "name":"Second Level Operator",
     "movementType": "Land",
     "uniques":["Can transform to []","Can move after attacking" ],
     "uniqueTo": "Neo Colony"
-     }
+     },
 
+     {
+        "name":"Neo Special operative",
+        "movementType": "Land",
+        "uniques":["Can transform to []","Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
+        "uniqueTo": "Neo Colony"
+         },
 
 
 ]
