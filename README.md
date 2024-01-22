@@ -8,3 +8,4 @@ Plans: In the first stages of the mod there will not be many changes other than 
 I apologize for the horrible grammar or the unappealing visuals. 
 
 All releases before 1.0 are private releases meant for testing and other purposes. 
+        "startingObsoleteWonders":
