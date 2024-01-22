@@ -1,10 +1,18 @@
 [
-    { "name":"Lazer Melee",
-
+    //Neo Specific
+    { 
+    "name":"First level operator",
     "movementType": "Land",
-    "uniques":""
-},
+    "uniques":["Can transform to []"],
+    "uniqueTo": "Neo Colony"
+}
+{
+    "name":"Second Level Operator",
+    "movementType": "Land",
+    "uniques":["Can transform to []","Can move after attacking" ],
+    "uniqueTo": "Neo Colony"
+     }
 
- { "name": "Civilian",
 
-"movementType": "Land" },
+
+]

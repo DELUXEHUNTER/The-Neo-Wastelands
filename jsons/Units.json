@@ -1,7 +1,7 @@
 [
 	{
 		"name": "",
-		"unitType": "Melee",
+		"unitType": "First Level Operator",
 		"uniqueTo": "Neo Colony",
 		"replaces": "Machine Gun",
 		"movement": 2,
