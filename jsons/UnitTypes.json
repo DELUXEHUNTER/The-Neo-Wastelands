@@ -1,4 +1,10 @@
 [
+    { 
+        "name":"Civilian",
+        "movementType": "Land",
+        "uniques":["Can transform to []"]
+        },
+
     //Neo Specific.
     { 
     "name":"Recruit level operator",
@@ -21,10 +27,10 @@
      },
 
      {
-        "name":"Neo Special operative",
-        "movementType": "Land",
-        "uniques":["Can transform to []","Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
-        "uniqueTo": "Neo Colony"
+     "name":"Neo Special operative",
+     "movementType": "Land",
+     "uniques":["Can transform to []","Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
+     "uniqueTo": "Neo Colony"
          },
 
 
