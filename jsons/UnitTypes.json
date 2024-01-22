@@ -6,17 +6,16 @@
         },
 
     //Neo Specific.
+    //Add uniques to first level and recruit
     { 
     "name":"Recruit level operator",
     "movementType": "Land",
-     "uniques": ,
      "uniqueTo": "Neo Colony"
     },
 
     { 
     "name":"First level operator",
     "movementType": "Land",
-    "uniques": "",
     "uniqueTo": "Neo Colony"
 },
 {
