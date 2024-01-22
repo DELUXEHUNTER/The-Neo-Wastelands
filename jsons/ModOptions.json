@@ -3,4 +3,10 @@
 "modUrl":"https://github.com/carriontrooper/Alpha-Frontier",
 "defaultBranch":"main","author":"Deacon",
 "topics":["unciv-mod","unciv-mod-rulesets","unciv-"]
+
+"constants":
+{
+    "spawnIceBelowTemperature": 1.1, 
+    
+},
 }
