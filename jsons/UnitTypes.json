@@ -30,7 +30,7 @@
      "movementType": "Land",
      "uniques":[,"Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
      "uniqueTo": "Neo Colony"
-         },
+         }
 
 
 ]
