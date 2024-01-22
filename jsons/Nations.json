@@ -76,7 +76,7 @@
         "name": "Babrarians",
         "outerColor": [0,0,0],
         "innerColor": [184,0,0],
-        "uniques": ["Can only heal by pillaging"]
+        "uniques": ["Can only heal by pillaging", "Excluded from map editor"]
     },
 //Spectator
 	 {
