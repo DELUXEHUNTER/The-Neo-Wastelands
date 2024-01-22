@@ -28,7 +28,7 @@
      {
      "name":"Neo Special operative",
      "movementType": "Land",
-     "uniques":[,"Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
+     "uniques":["Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ],
      "uniqueTo": "Neo Colony"
          }
 
