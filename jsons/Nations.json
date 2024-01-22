@@ -8,7 +8,7 @@
 	{
 		"name": "Neo"
 		"leaderName": "The collective",
-		"adjective": ["Ne-ite"],
+		"adjective": ["Neite"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
@@ -35,6 +35,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
+		"uniquename": "Neite Simulation"
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Neo","Kyron"]
 	}
