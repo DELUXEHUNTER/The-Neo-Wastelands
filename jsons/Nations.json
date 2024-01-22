@@ -37,13 +37,6 @@
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Neo","Kyron"]
-	},
+	}
 
-//Barbarian 
-	{
-        "name": "Babarians",
-        "outerColor": [0,0,0],
-        "innerColor": [184,0,0],
-        "uniques": ["Can only heal by pillaging", "Excluded from map editor"]
-    }
 		]
