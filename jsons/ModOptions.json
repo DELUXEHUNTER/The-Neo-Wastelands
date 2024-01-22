@@ -1,13 +1,12 @@
 {
 "isBaseRuleset":true,
-"modUrl":"https://github.com/carriontrooper/Alpha-Frontier",
+"modUrl":"https://github.com/DELUXEHUNTER/Neo",
 "defaultBranch":"main","author":"Deacon",
-"topics":["unciv-mod","unciv-mod-rulesets","unciv-"]
+"topics":["unciv-mod","unciv-mod-rulesets","unciv-"],
 
 "constants":
 {
     "spawnIceBelowTemperature": -0.9, 
-
 },
 
 }
