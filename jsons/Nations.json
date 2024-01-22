@@ -7,7 +7,7 @@
 
 	{
 		"name": "Neo Colony"
-		"leaderName": "The collective",
+		"leaderName": "",
 		"adjective": ["Neite"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",

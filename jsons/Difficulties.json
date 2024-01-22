@@ -42,7 +42,7 @@
 		"unhappinessModifier": 0.6,
 		"barbarianBonus": 0.5,
 		"barbarianSpawnDelay": 5,
-		"playerBonusStartingUnits": [],
+		"playerBonusStartingUnits": ["Recruit", "Recruit"],
 		"aiCityGrowthModifier": 1.3,
 		"aiUnitCostModifier": 1.3,
 		"aiBuildingCostModifier": 1.3,
