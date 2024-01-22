@@ -1,3 +1,9 @@
+ This mod is made and maintained by me Deacon and is made using the mod template and inspired by alpha frontier 
+
+
+
+
+
 
 
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain

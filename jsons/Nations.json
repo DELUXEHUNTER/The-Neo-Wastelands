@@ -1,4 +1,5 @@
 [
+	
 	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
@@ -35,7 +36,6 @@
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
-
 	{
 		"name": "Neo"
 		"leaderName": "The collective",
@@ -67,7 +67,20 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo]
-	}
+		"cities": ["Neo"]
+	},
 
-	]
+
+
+	{
+        "name": "",
+        "outerColor": [0,0,0],
+        "innerColor": [184,0,0],
+        "uniques": ["Can only heal by pillaging"]
+    },
+
+	 {
+        "name": "Spectator",
+        "outerColor": [255,255,255]
+    }
+		]
