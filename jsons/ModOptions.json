@@ -6,7 +6,7 @@
 
 "constants":
 {
-    "spawnIceBelowTemperature": 1.1, 
-    
+    "spawnIceBelowTemperature": -0.9, 
+
 },
 }
