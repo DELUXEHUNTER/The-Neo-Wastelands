@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "",
+		"unitType": "Melee",
+		"uniqueTo": "Neo Colony",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -10,11 +10,14 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"requiredResource": ,
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": 
 	},
 	
+
+
+
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",

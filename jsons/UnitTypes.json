@@ -1,0 +1,10 @@
+[
+    { "name":"Lazer Melee",
+
+    "movementType": "Land",
+    "uniques":""
+},
+
+ { "name": "Civilian",
+
+"movementType": "Land" },

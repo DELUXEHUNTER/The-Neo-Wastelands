@@ -28,15 +28,15 @@
 		"turnBarbariansCanEnterPlayerTiles": 100,
 		"clearBarbarianCampReward": 56
 	},
-	
+
 	{
 		"name": "Architect",
 		"baseHappiness": 12,
-		"extraHappinessPerLuxury": 1,
-		"researchCostModifier": 0.95,
+		"extraHappinessPerLuxury": 0.6,
+		"researchCostModifier": 0.93,
 		"unitCostModifier": 0.67,
 		"unitSupplyBase": 7,
-		"unitSupplyPerCity": 3,
+		"unitSupplyPerCity": 3.6,
 		"buildingCostModifier": 0.67,
 		"policyCostModifier": 0.67,
 		"unhappinessModifier": 0.6,
@@ -92,19 +92,22 @@
 		"clearBarbarianCampReward": 30
 	},
 
+
+
+
 	{
-		"name": "Authority",
-		"baseHappiness": 9,
-		"extraHappinessPerLuxury": 0,
+		"name": "Martial",
+		"baseHappiness": 7.7,
+		"extraHappinessPerLuxury": 0.1,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 5,
-		"unitSupplyPerCity": 2,
+		"unitSupplyPerCity": 2.6,
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.33,
-		"barbarianSpawnDelay": 0,
+		"barbarianSpawnDelay": 1,
 		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
@@ -118,7 +121,7 @@
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
-		"turnBarbariansCanEnterPlayerTiles": 0,
-		"clearBarbarianCampReward": 25
+		"turnBarbariansCanEnterPlayerTiles": 10.5,
+		"clearBarbarianCampReward": 67.6
 	}
 ]
