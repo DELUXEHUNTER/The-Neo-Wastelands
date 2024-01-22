@@ -1,13 +1,12 @@
 [
 	{
-		"name": "S",
+		"name": "Recruit",
 		"unitType": "Recruit level operator",
 		"uniqueTo": "Neo Colony",
-		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 9,
 		"range": 1,
-		"cost": 500,
+		"cost": 34,
 		"requiredTech": "Ballistics",
 		"obsoletetech": "",
 		"requiredResource": "",

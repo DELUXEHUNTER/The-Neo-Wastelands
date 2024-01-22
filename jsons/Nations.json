@@ -35,9 +35,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniquename": "Neite Simulation"
+		"uniquename": "Neite Daze",
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo","Kyron"]
+		"cities": ["Neo","OrPax","Kyron", "New Earth"]
 	}
 
 		]
