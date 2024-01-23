@@ -7,12 +7,22 @@
         "wonderCost": 185,
         "techs": [
             {
-                "name": "Balls",
+                "name": "Corporate Vision",
                 "row": 5,
-                "quote": "'From our home we left to look for the stars",
+                "quote": "'From ",
                 "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
             }
         ]
-    }
+    },
+{
+    "columnNumber": 1,
+        "era": "Pre-Colonization Era",
+        "techCost": 29
+
+}
+
+
+
+
     
 ]
