@@ -1,7 +1,7 @@
 [
 	//Nations
 	{
-		"name": "Neo Colony"
+		"name": "Neo Colony",
 		"leaderName": "T.A.L.O.N",
 		"adjective": ["Neite"],
 		"startBias": ["Tundra"],
