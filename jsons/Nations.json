@@ -38,7 +38,17 @@
 		"uniquename": "Neite Daze",
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Neo","OrPax","Kyron", "New Earth"]
-	}
+	},
 
-	
-		]
+
+	// Barbarian
+
+	{
+		"name": "Barbarians",
+		"style": "T-Infected",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198, 243, 102],
+		"uniques": ["Can only heal by pillaging"]
+	}
+]
+

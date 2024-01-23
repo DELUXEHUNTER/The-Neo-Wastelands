@@ -1,3 +1,8 @@
+//Row Examples 
+//Row 1
+//Row 2
+//Row 3
+//Row 4
 [
     {
         "columnNumber": 0,
@@ -9,15 +14,23 @@
             {
                 "name": "Corporate Vision",
                 "row": 5,
-                "quote": "'From ",
+                "quote": "'The vision of a p",
                 "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
             }
         ]
     },
 {
     "columnNumber": 1,
-        "era": "Pre-Colonization Era",
-        "techCost": 29
+    "era": "Pre-Colonization Era",
+    "techCost": 29,
+    "buildingCost": 62,
+    "wonderCost": 165
+"techs":[
+    {
+        "name" : 
+    }
+]
+
 
 }
 
