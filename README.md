@@ -10,7 +10,3 @@ I apologize for the horrible grammar or the unappealing visuals.
 All releases before 1.0 are private releases meant for testing and other purposes. 
 
 
-"constants":
-{
-    "spawnIceBelowTemperature": -0.9
-},
