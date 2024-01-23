@@ -7,7 +7,7 @@
 
 	{
 		"name": "Neo Colony"
-		"leaderName": "",
+		"leaderName": "T.A.L.O.N",
 		"adjective": ["Neite"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -17,7 +17,7 @@
 		
 		"declaringWar": "Offensive Protocols initiated",
 		"attacked": "Defense Protocols initiated",
-		"defeated": "TIDE Protocols initiated. Self destruction imminent ",
+		"defeated": "TIDE Protocols initiated. Self destruction imminent.  ",
 		"introduction": "The.",
 		
 		"neutralHello": "How are you doing?",

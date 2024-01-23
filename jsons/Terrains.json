@@ -497,7 +497,7 @@
         {
         
             "name": "Lake Victoria",
-            "type": "NaturalWonder",
+            "type": "NaturalWonder
             "food": 6,
             "occursOn": ["Plains"],
             "turnsInto": "Mountain",

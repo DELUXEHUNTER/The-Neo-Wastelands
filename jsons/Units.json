@@ -1,4 +1,27 @@
 [
+
+
+
+
+
+
+
+	//civilian 
+
+	{
+		"name": "Colony Convoy",
+		"unitType": "Civilian",
+		"movement": 2.2,
+		"cost": 109,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [3] population"],
+		"hurryCostModifier": 25
+		},
+
+
+
+//Neo Specific
+
 	{
 		"name": "Recruit",
 		"unitType": "Recruit level operator",
@@ -6,14 +29,15 @@
 		"movement": 2,
 		"strength": 9,
 		"range": 1,
-		"cost": 34,
+		"cost": 140,
 		"requiredTech": "Ballistics",
 		"obsoletetech": "",
 		"requiredResource": "",
 		"promotions": ["Logistics","Accuracy I"],
 		"upgradesto": "", 
-		"attackSound": ""
-	},
+		
+		}
+	
 ]
 
 
