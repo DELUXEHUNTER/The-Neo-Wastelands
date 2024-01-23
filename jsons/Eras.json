@@ -26,7 +26,6 @@
         "startingGold": 400,
         "startingCulture": 600,
         "settlerPopulation": 5,
-        "settlerBuildings": [],
         "baseUnitBuyCost": 1000,
         "embarkDefense": 20,
         "startPercent": 80,
