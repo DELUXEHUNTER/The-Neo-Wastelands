@@ -1,7 +1,7 @@
 [
     {
         "columnNumber": 0,
-        "era": "Pre-Colonization Era",
+        "era": "Survey Era",
         "techCost": 20,
         "buildingCost": 40,
         "wonderCost": 185,
@@ -11,21 +11,27 @@
                 "row": 5,
                 "quote": "'This world is ours to own' - Corporate",
                 "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
+
+
             }
         ]
     },
 
     {
+      
+    }
+    {
     "columnNumber": 1,
-    "era": "Pre-Colonization Era",
-    "techCost": 29,
+    "era": "Neo-Frontier",
+    "techCost": 34,
     "buildingCost": 62,
-    "wonderCost": 165,
+    "wonderCost": 196,
     "techs": [
     {
-     "name":"Bio ",
-     "row":5, 
-     "quote":"'Technology'"
+     "name":"The Frontier",
+     "row":1, 
+     "quote":"'The "
+     
     }
 ]
 

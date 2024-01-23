@@ -1,7 +1,7 @@
 
 [
     {
-        "name": "Pre-Colonization Era",
+        "name": "Survey Era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, 
         "startingSettlerUnit": "Colony Convoy",
@@ -19,7 +19,7 @@
 
 
     {
-        "name": "Colonization Era",
+        "name": "Neo-Frontier",
         "researchAgreementCost": 400,
         "startingSettlerCount": 2,
         "startingSettlerUnit": "Colony Convoy",

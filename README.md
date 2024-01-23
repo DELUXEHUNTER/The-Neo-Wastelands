@@ -14,3 +14,5 @@ I apologize for the horrible grammar or the unappealing visuals.
 All releases before 1.0 are private releases meant for testing and other purposes. 
 
 
+
+// https://github.com/yairm210/Unciv/tree/5b08e00d6b5cac7b64d328ecc13dccbe67c9294a/docs/Modders/schemas
