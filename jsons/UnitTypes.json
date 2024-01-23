@@ -5,34 +5,82 @@
         "uniques":["Unit will heal every turn, even if it performs an action"]
      
         },
+    {
+        
+
+        
+        },
+
 
     //Neo Specific.
+
     //Add uniques to first level and recruit
     { 
     "name":"Recruit level operator",
     "movementType": "Land"
 
-    },
+        },
 
     { 
     "name":"First level operator",
     "movementType": "Land"
 
-      },
+        },
 
-{
+    {
     "name":"Second Level Operator",
     "movementType": "Land",
-    "uniques":["Can move after attacking" ]
+    "uniques":["Can move after attacking"]
 
-     },
+        },
 
      {
      "name":"Neo Special operative",
      "movementType": "Land",
      "uniques":["Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ]
 
-         }
+        },
 
 
-]
+
+        
+// Deprecated unit types required for mods without a UnitTypes.json file to work
+
+
+{
+    "name": "Melee",
+    "movementType": "Land"
+},
+{
+    "name": "Ranged",
+    "movementType": "Land"
+},
+{
+    "name": "Armor",
+    "movementType": "Land"
+},
+{
+    "name": "WaterCivilian",
+    "movementType": "Water"
+},
+{
+    "name": "WaterMelee",
+    "movementType": "Water"
+},
+{
+    "name": "WaterRanged",
+    "movementType": "Water"
+},
+{
+    "name": "WaterSubmarine",
+    "movementType": "Water"
+},
+{
+    "name": "WaterAircraftCarrier",
+    "movementType": "Water"
+},
+{
+    "name": "AtomicBomber",
+    "movementType": "Air"
+}
+        ]

@@ -1,10 +1,5 @@
 [
-	//Spectator
-	{
-        "name": "Spectator",
-        "outerColor": [255,255,255]
-    },
-
+	//Nations
 	{
 		"name": "Neo Colony"
 		"leaderName": "T.A.L.O.N",
@@ -39,6 +34,13 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Neo","OrPax","Kyron", "New Earth"]
 	},
+
+	// Spectator
+
+	{
+        "name": "Spectator",
+        "outerColor": [255,255,255]
+    },
 
 
 	// Barbarian

@@ -14,23 +14,25 @@
             {
                 "name": "Corporate Vision",
                 "row": 5,
-                "quote": "'The vision of a p",
+                "quote": "'Technology ",
                 "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
             }
         ]
     },
-{
+
+    {
     "columnNumber": 1,
     "era": "Pre-Colonization Era",
     "techCost": 29,
     "buildingCost": 62,
-    "wonderCost": 165
-"techs":[
+    "wonderCost": 165,
+    "techs": [
     {
-        "name" : 
+     "name":"Csorporate Vision",
+     "row":5, 
+     "quote":"'Technology "
     }
 ]
-
 
 }
 
