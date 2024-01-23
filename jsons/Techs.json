@@ -14,7 +14,7 @@
             {
                 "name": "Corporate Vision",
                 "row": 5,
-                "quote": "'Technology ",
+                "quote": "'This world is ours to own' - Corporate",
                 "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
             }
         ]
@@ -28,9 +28,9 @@
     "wonderCost": 165,
     "techs": [
     {
-     "name":"Csorporate Vision",
+     "name":"Bio ",
      "row":5, 
-     "quote":"'Technology "
+     "quote":"'Technology'"
     }
 ]
 
