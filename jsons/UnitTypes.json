@@ -2,8 +2,7 @@
     { 
         "name":"Civilian",
         "movementType": "Land",
-        "uniques":["Unit will heal every turn, even if it performs an action"]
-     
+        "uniques":"Unit will heal every turn, even if it performs an action"
         },
   
     //Neo Specific.
@@ -12,7 +11,6 @@
     { 
     "name":"Recruit level operator",
     "movementType": "Land"
-
         },
 
     { 
@@ -24,7 +22,7 @@
     {
     "name":"Second Level Operator",
     "movementType": "Land",
-    "uniques":["Can move after attacking"]
+    "uniques":"Can move after attacking"
 
         },
 

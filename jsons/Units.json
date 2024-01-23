@@ -1,11 +1,4 @@
 [
-
-
-
-
-
-
-
 	//civilian 
 
 	{
@@ -17,7 +10,12 @@
 			"Requires at least [3] population"],
 		"hurryCostModifier": 25
 		},
-
+	{
+		"name": "T1 CONS Unit",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Worker","Can build [Land] improvements on tiles"]
+		},
 
 //Neo Specific
 
@@ -32,8 +30,7 @@
 		"requiredTech": "Ballistics",
 		"obsoletetech": "",
 		"requiredResource": "",
-		"promotions": ["Logistics","Accuracy I"],
-		"upgradesto": ""
+		"promotions": ["Logistics","Accuracy I"]
 		
 		}
 	

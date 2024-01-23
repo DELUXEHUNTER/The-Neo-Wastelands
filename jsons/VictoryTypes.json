@@ -1,7 +1,7 @@
 [
     {
         "name": "Scientific",
-        "victoryScreenHeader": "Complete all the spaceship parts\nto win!",
+        "victoryScreenHeader": "Complete all the spaceship parts to win!",
         "milestones": [
             "Build [Apollo Program]",
             "Add all [spaceship parts] in capital"

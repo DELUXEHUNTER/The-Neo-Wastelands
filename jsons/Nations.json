@@ -12,7 +12,7 @@
 		
 		"declaringWar": "Offensive Protocols initiated",
 		"attacked": "Defense Protocols initiated",
-		"defeated": "TIDE Protocols initiated. Self destruction imminent.  ",
+		"defeated": "TIDE Protocols initiated. Self destruction imminent.",
 		"introduction": "The.",
 		
 		"neutralHello": "How are you doing?",
@@ -32,7 +32,7 @@
 		"innerColor": [255,200,200],
 		"uniquename": "Neite Daze",
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo","OrPax","Kyron", "New Earth"]
+		"cities": ["Neo","OrPax","Kyron","New Earth"]
 	},
 
 	// Spectator

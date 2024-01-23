@@ -45,7 +45,7 @@
 		"unhappinessModifier": 0.6,
 		"barbarianBonus": 0.5,
 		"barbarianSpawnDelay": 5,
-		"playerBonusStartingUnits": ["Recruit", "Recruit"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1.3,
 		"aiUnitCostModifier": 1.3,
 		"aiBuildingCostModifier": 1.3,
@@ -62,9 +62,6 @@
 		"clearBarbarianCampReward": 40
 	},
     
-
-
-
 	{
 		"name": "Warlord", //rename into Authorized-Settler
 		"baseHappiness": 12,
@@ -95,11 +92,8 @@
 		"clearBarbarianCampReward": 30
 	},
 
-
-
-
 	{
-		"name": "Prince", //rename into martial 
+		"name": "Prince", //rename into Martial 
 		"baseHappiness": 7.7,
 		"extraHappinessPerLuxury": 0.1,
 		"researchCostModifier": 1,
