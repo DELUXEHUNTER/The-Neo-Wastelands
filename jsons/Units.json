@@ -16,13 +16,12 @@
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [3] population"],
 		"hurryCostModifier": 25
-		}
+		},
 
 
-	]
 //Neo Specific
 
-	/*{
+	{
 		"name": "Recruit",
 		"unitType": "Recruit level operator",
 		"uniqueTo": "Neo Colony",
@@ -37,7 +36,7 @@
 		"upgradesto": ""
 		
 		}
-	/*
+	
 ]
 
 
