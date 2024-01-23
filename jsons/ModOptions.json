@@ -1,8 +1,5 @@
 {
-"constants":
-{
-    "spawnIceBelowTemperature": -0.9
-},
+
 "isBaseRuleset":true,
 "modUrl":"https://github.com/DELUXEHUNTER/Neo",
 "defaultBranch":"main","author":"Deacon",
