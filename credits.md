@@ -1,4 +1,6 @@
 This mod is made and maintained by me Deacon or Hunter and is made using the mod template and inspired by alpha frontier. Once I add more content and people contribute to this mod I will give credit to them. 
+//If you contribute to this repository then add the changes to this page
+
 
 
 The following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
