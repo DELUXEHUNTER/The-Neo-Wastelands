@@ -25,7 +25,7 @@
         "startingSettlerUnit": "Colony Convoy",
         "startingWorkerCount": 3,
         "startingWorkerUnit": "CONS Unit",
-        "startingMilitaryUnitCount": 5,
+        "startingMilitaryUnitCount": 3,
         "startingMilitaryUnit": "Recruit",
         "startingGold": 400,
         "startingCulture": 600,
@@ -35,7 +35,27 @@
         "embarkDefense": 20,
         "startPercent": 80,
         "iconRGB": [76, 176, 81],
-        "uniques": ["Starting in this era disables religion"]
+        "uniques": []
+    },
+
+    {
+        "name": "Establishment Era",
+        "researchAgreementCost": 560,
+        "startingSettlerCount": 3,
+        "startingSettlerUnit": "Colony Convoy",
+        "startingWorkerCount": 4,
+        "startingWorkerUnit": "CONS Unit",
+        "startingMilitaryUnitCount": 4,
+        "startingMilitaryUnit": "Recruit",
+        "startingGold": 560,
+        "startingCulture": 700,
+        "settlerPopulation": 7,
+        "settlerBuildings": [],
+        "baseUnitBuyCost": 1105,
+        "embarkDefense": 25,
+        "startPercent": 87,
+        "iconRGB": [76, 176, 81],
+        "uniques": []
     }
 
 ]
