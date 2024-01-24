@@ -10,7 +10,7 @@
                 "name": "Corporate Vision",
                 "row": 5,
                 "quote": "'This planet is ours to own' - Corporate",
-                "uniques": [ "Starting tech", "Notified of new Barbarian encampments" ]
+                "uniques": ["Starting tech"]
             }
         ]
     },
@@ -19,18 +19,25 @@
       
     },
     {
-    "columnNumber": 1,
-    "era": "Neo-Frontier",
+    "columnNumber": 2,
+    "era": "Survey",
     "techCost": 34,
     "buildingCost": 62,
-    "wonderCost": 196,
+    "wonderCost": 146,
     "techs": [
     {
-     "name":"The Frontier",
-     "row":1, 
-     "quote":"'The "
-     
-    }
+     "name":"Surveyers",
+     "row":4, 
+     "prerequisites": ["Corporate Vision"],
+     "quote":"'The land around us must be known'",
+     "uniques": [ "Notified of new Barbarian encampments"]
+    },
+    {
+     "name":"Neite mining",
+     "row":5,
+     "prerequisites":["Corporate Vision"],
+    "quote":"'The resources needed to survive have to be found underneath the ground this technology should help'- AI Helper"
+    },
 ]
 
 }  

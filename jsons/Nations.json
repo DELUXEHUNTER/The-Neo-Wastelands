@@ -13,7 +13,7 @@
 		"declaringWar": "Offensive Protocols initiated",
 		"attacked": "Defense Protocols initiated",
 		"defeated": "TIDE Protocols initiated. Self destruction imminent.",
-		"introduction": "The.",
+		"introduction": "Hello mortal being",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -49,6 +49,6 @@
 		"name": "Barbarians",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198, 243, 102],
-		"uniques": ["Can only heal by pillaging"]
+		"uniques": ["Can only heal by pillaging", "excluded from map editor"]
 	}
 ]
