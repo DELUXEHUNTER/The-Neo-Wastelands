@@ -2,7 +2,7 @@
     { 
         "name":"Civilian",
         "movementType": "Land",
-        "uniques":"Unit will heal every turn, even if it performs an action"
+        "uniques":"Unit will heal every [2] turns, even if it performs an action"
         },
   
     //Neo Specific.

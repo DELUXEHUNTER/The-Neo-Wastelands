@@ -11,7 +11,7 @@
 		"hurryCostModifier": 25
 		},
 	{
-		"name": "T1 CONS Unit",
+		"name": "CONS Unit",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Worker","Can build [Land] improvements on tiles"]
