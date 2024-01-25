@@ -1,13 +1,11 @@
 [
     { 
         "name":"Civilian",
-        "movementType": "Land",
-        "uniques":"Unit will heal every [2] turns, even if it performs an action"
+        "movementType": "Land"
         },
   
     //Neo Specific.
 
-    //Add uniques to first level and recruit
     { 
     "name":"Recruit level operator",
     "movementType": "Land"
@@ -21,15 +19,15 @@
 
     {
     "name":"Second Level Operator",
-    "movementType": "Land",
-    "uniques":"Can move after attacking"
+    "movementType": "Land"
+    
 
         },
 
      {
      "name":"Neo Special operative",
-     "movementType": "Land",
-     "uniques":["Can move after attacking", "Invisible to non-adjacent units", "Uncapturable" ]
+     "movementType": "Land"
+ 
 
         },
       
