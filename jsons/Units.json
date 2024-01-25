@@ -2,21 +2,31 @@
 	//civilian 
 
 	{
+		//Settler
 		"name": "Colony Convoy",
 		"unitType": "Civilian",
-		"movement": 2.2,
+		"movement": 1.2,
 		"cost": 109,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [3] population"],
 		"hurryCostModifier": 25
 		},
+		//Worker
 	{
+		//Worker
 		"name": "CONS Unit",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Worker","Can build [Land] improvements on tiles"]
+		"uniques": ["Can build [Land] improvements on tiles"]
 		},
 
+	{
+		//Scout
+		"name": "Surveyer",
+		"unitType":"Recruit level operator",
+		"movemement": 2.5,
+		"uniques":[]
+	}
 //Neo Specific
 
 	{
@@ -27,10 +37,10 @@
 		"strength": 9,
 		"range": 1,
 		"cost": 140,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Corporate Vision",
 		"obsoletetech": "",
-		"requiredResource": "",
-		"promotions": ["Logistics","Accuracy I"]
+
+		"promotions": []
 		
 		}
 	

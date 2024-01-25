@@ -1,0 +1,10 @@
+[
+
+	{
+		"name": "Heal Instantly",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Civilian"],
+        "row": 0,
+        "column": 0
+    }
+]

@@ -5,6 +5,6 @@
 },
 "isBaseRuleset":true,
 "modUrl":"https://github.com/DELUXEHUNTER/Neo",
-"defaultBranch":"main","author":"Deacon",
+"defaultBranch":"master","author":"Deacon",
 "topics":["unciv-mod","unciv-mod-rulesets"]
 }
