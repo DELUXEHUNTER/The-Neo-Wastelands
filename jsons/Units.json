@@ -27,10 +27,10 @@
 		"strength": 9,
 		"range": 1,
 		"cost": 140,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Corporate Vision",
 		"obsoletetech": "",
 		"requiredResource": "",
-		"promotions": ["Logistics","Accuracy I"]
+		"promotions": []
 		
 		}
 	
