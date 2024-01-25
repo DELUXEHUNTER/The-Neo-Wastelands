@@ -2,6 +2,7 @@
 	//civilian 
 
 	{
+		//Settler
 		"name": "Colony Convoy",
 		"unitType": "Civilian",
 		"movement": 1.2,
@@ -10,18 +11,21 @@
 			"Requires at least [3] population"],
 		"hurryCostModifier": 25
 		},
+		//Worker
 	{
+		//Worker
 		"name": "CONS Unit",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Worker","Can build [Land] improvements on tiles"]
+		"uniques": ["Can build [Land] improvements on tiles"]
 		},
 
 	{
+		//Scout
 		"name": "Surveyer",
 		"unitType":"Recruit level operator",
 		"movemement": 2.5,
-		"uniques":["Scout"]
+		"uniques":[]
 	}
 //Neo Specific
 
