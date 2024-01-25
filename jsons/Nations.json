@@ -34,15 +34,7 @@
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Neo","OrPax","Kyron","New Earth"]
 	},
-
-	// Spectator
-
-	{
-        "name": "Spectator",
-        "outerColor": [255,255,255]
-    },
-
-
+	
 	// Barbarian
 
 	{
