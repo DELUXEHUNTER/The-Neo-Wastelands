@@ -55,8 +55,7 @@
         "embarkDefense": 25,
         "startPercent": 87,
         "iconRGB": [76, 176, 81],
-        "uniques": ["<upon entering this era> [1] free social policy",
-        "<when not at war> [3] free [Recruit] units appear"]
+        "uniques": ["<upon entering this era> [1] free social policy"]
     }
 
 ]
