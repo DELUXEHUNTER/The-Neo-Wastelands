@@ -4,7 +4,7 @@
 	{
 		"name": "Colony Convoy",
 		"unitType": "Civilian",
-		"movement": 2.2,
+		"movement": 1.2,
 		"cost": 109,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [3] population"],
@@ -17,6 +17,12 @@
 		"uniques": ["Worker","Can build [Land] improvements on tiles"]
 		},
 
+	{
+		"name": "Surveyer",
+		"unitType":"Recruit level operator",
+		"movemement": 2.5,
+		"uniques":["Scout"]
+	}
 //Neo Specific
 
 	{
