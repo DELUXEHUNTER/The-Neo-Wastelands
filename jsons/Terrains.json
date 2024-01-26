@@ -14,14 +14,13 @@
             "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
-            "Becomes [Plains] when adjacent to [River]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
     {
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
-		"RGB": [,229, 229, 255], //Lighter 230, 238, 255
+		"RGB": [229, 229, 255], //Lighter 230, 238, 255
 		"uniques": [
             "Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
             "Occurs at temperature between [-0.9] and [-0.8] and humidity between [0] and [0.8]",
@@ -37,14 +36,51 @@
 
 
 
+  //Terrain Features
+  {
+		"name": "Hill",
+		"type": "TerrainFeature",
+		"production": 2,
+		"movementCost": 2,
+		"overrideStats": true,
+		"defenceBonus": 0.25,
+		"RGB": [105,125,72],
+		"occursOn": ["Tundra","Snow"],
+		"uniques": ["Rough terrain",
+					"[+4] Strength for cities built on this terrain",
+					"Has an elevation of [1] for visibility calculations",
+					"Occurs in groups around high elevations",
+					"[+1.2] to Fertility for Map Generation",
+					"A Region is formed with at least [40]% [Hill] tiles, with priority [5]",
+					"Base Terrain on this tile is not counted for Region determination",
+					"Starts in regions of this type receive an extra [Sheep]",
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Every [23] tiles with this terrain will receive a major deposit of a strategic resource."]
+	},
+
+
+
+
+
+ // Impassable
+ {
+  "name": "Mountain",
+  "type": "Land",
+  "impassable": true,
+  "defenceBonus": 0.25,
+  "RGB": [102, 102, 102],
+  "uniques": ["Rough terrain",
+          "Has an elevation of [2] for visibility calculations",
+          "Occurs in chains at high elevations",
+          "Units ending their turn on this terrain take [45] damage",
+          "Always Fertility [-4] for Map Generation",
+          "Considered [Undesirable] when determining start locations"]
+}
+
 
 
 
   // Hive/Barbarian
-  {
-		"name": "Barbarian encampment",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
-        "civilopediaText": [{"text":"Home to the hostile Infection, spawning them every now and then."}]
-	}
+ 
 ]
