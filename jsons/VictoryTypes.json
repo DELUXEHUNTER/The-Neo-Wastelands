@@ -1,17 +1,5 @@
 [
     {
-        "name": "Scientific",
-        "victoryScreenHeader": "Complete all the spaceship parts\nto win!",
-        "milestones": [
-            "Build [FTL Seedship Program]", "Add all [spaceship parts] in capital"
-        ],
-        "requiredSpaceshipParts": [
-            "Hyperspace Core", "Hyperspace Core", "Hyperspace Core", "FTL Navigations Bridge", "FTL Drive", "Zero Point Ship Reactor", "Nanite Life Support", "Stasis Pod Arrays", "Stasis Pod Arrays"
-        ],
-        "victoryString": "You have achieved victory through mastery of Science! You have achieved singularity and led your people beyond the lightspeed horizon! Your triumph will be remembered as long as the stars burn in the night sky!",
-        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
-    },
-    {
         "name": "Cultural",
         "victoryScreenHeader": "Complete 5 policy branches and\nbuild the Utopia Project to win!",
         "milestones": ["Complete [5] Policy branches", "Build [Utopia Project]"],
@@ -26,7 +14,7 @@
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
     {
-        "name": "Domination",
+        "name": "Extermination",
         "victoryScreenHeader": "Destroy all enemies\nto win!",
         "milestones": ["Destroy all players"],
         "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",

@@ -1,11 +1,13 @@
 [
+//Note: change all tundra and snow tiles to something different
+	
 	//Nations
 	{
-		"name": "Neo Colony",
+		"name": "Neo",
 		"leaderName": "T.A.L.O.N",
 		"adjective": ["Neite"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The world is ours to take.",
 		"startIntroPart2": "[Temporarily Empty]",
@@ -32,15 +34,86 @@
 		"innerColor": [255,200,200],
 		"uniquename": "Neite Daze",
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo","OrPax","Kyron","New Earth"]
+		"cities": ["Neo","OrPax","Kyron","Katheon"]
 	},
 	
+
+	//test
+	{
+		"name": "NEO 2",
+		"leaderName": "T.A.L.O.N",
+		"adjective": ["Neite"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The world is ours to take.",
+		"startIntroPart2": "[Temporarily Empty]",
+		
+		"declaringWar": "Offensive Protocols initiated",
+		"attacked": "Defense Protocols initiated",
+		"defeated": "TIDE Protocols initiated. Self destruction imminent.",
+		"introduction": "Hello mortal being",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you require?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?","No"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Peace at last.",
+		"tradeRequest": "Trade protocols initiated, transaction pending.",
+
+		"outerColor": [16,10,16],
+		"innerColor": [255,220,200],
+		"uniquename": "Neitew Daze",
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Neo 2","OrPax 2","2 Kyron"," 2 Katheon"]
+	},
+	
+
+	// City States
+	{
+		"name": "Kyron Sepratists",
+		"adjective": ["Kyrite"],
+		"cityStateType": "Cultural",
+		"startBias": ["Snow"],
+
+		"declaringWar": "My first task is to declare war on 'the way things are'!",
+		"attacked": "Are we not proof that the universe is a drooling idiot with no fashion sense?",
+		"defeated": "Rataplan, rataplan, the vicar's pants are closing.",
+		"outerColor": [50, 50, 50],
+		"innerColor": [197, 55, 222],
+		"cities": ["New Kyron"]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	// Barbarian
 
 	{
 		"name": "Barbarians",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198, 243, 102],
-		"uniques": ["Can only heal by pillaging", "excluded from map editor"]
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor"]
 	}
 ]
