@@ -8,8 +8,8 @@
 		"RGB": [2, 104, 100],
 		"uniques": [
 			"Becomes [Coast] when adjacent to [land]" 
-		],
-
+		]
+  },
   //Terrain Features
   {
 		"name": "Hill",
