@@ -35,7 +35,7 @@
         "embarkDefense": 20,
         "startPercent": 80,
         "iconRGB": [76, 176, 81],
-        "uniques": ["<upon entering this era> Gain [200][gold]"]
+        "uniques": ["Gain [+200] [gold] <upon entering this era>"]
     },
 
     {
@@ -55,7 +55,7 @@
         "embarkDefense": 25,
         "startPercent": 87,
         "iconRGB": [76, 176, 81],
-        "uniques": ["upon entering this era [+1] free social policy"]
+        "uniques": ["[+1] free social policy <upon entering this era>"]
     }
 
 ]

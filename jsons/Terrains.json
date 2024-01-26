@@ -33,6 +33,18 @@
             "Becomes [Tundra] when adjacent to [River]",
             "Every [19] tiles with this terrain will receive a major deposit of a strategic resource.",
             "Never receives any resources <in [Hill] tiles>"]
-	}
+	},
 
+
+
+
+
+
+  // Hive/Barbarian
+  {
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
+        "civilopediaText": [{"text":"Home to the hostile Infection, spawning them every now and then."}]
+	}
 ]
