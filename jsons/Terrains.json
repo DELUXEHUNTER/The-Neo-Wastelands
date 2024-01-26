@@ -10,6 +10,18 @@
 			"Becomes [Coast] when adjacent to [land]" 
 		]
   },
+  {
+		"name": "Coast",
+		"type": "Water",
+		"food": 1,
+		"movementCost": 1,
+		"RGB": [42, 206, 179],
+		"uniques": [
+			"[+2] to Fertility for Map Generation",
+			"Considered [Desirable] when determining start locations <on water maps>",
+			"Every [60] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+  },
   //Terrain Features
   {
 		"name": "Hill",
