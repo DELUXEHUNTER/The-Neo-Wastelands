@@ -112,6 +112,7 @@
 
 	{
 		"name": "Barbarians",
+		"style:": "Infection",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198, 243, 102],
 		"uniques": ["Can only heal by pillaging", "Excluded from map editor"]
