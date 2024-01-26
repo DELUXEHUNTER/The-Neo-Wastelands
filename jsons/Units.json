@@ -32,7 +32,7 @@
 	{
 		"name": "Recruit",
 		"unitType": "Recruit level operator",
-		"uniqueTo": "Neo Colony",
+		"uniqueTo": "Neo",
 		"movement": 2,
 		"strength": 9,
 		"range": 1,
