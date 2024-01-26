@@ -34,6 +34,20 @@
             "Never receives any resources <in [Hill] tiles>"]
 	},
 
+  {
+		"name": "Snow",
+    "style": "Snow2",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [229, 228, 255],
+		"uniques": [
+
+            "Always Fertility [+2] for Map Generation",
+            "Becomes [Tundra] when adjacent to [River]",
+            "Every [19] tiles with this terrain will receive a major deposit of a strategic resource.",
+            "Never receives any resources <in [Hill] tiles>"]
+	},
+
 
 
   //Terrain Features
