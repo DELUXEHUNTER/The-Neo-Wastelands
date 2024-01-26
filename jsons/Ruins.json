@@ -1,3 +1,8 @@
 [
-    
+ {
+ "name": "Data terminal Hack",
+  "notification": "Data Terminal Succesfully hacked (+20 Science)",
+  "uniques":["Gain [30] [Science]"]
+
+ }
 ]

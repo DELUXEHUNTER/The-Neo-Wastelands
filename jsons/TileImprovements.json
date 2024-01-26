@@ -1,7 +1,7 @@
 [
 
 
-	
+
 
     //Unbuildable
     {
@@ -28,6 +28,6 @@
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
-        "civilopediaText": [{"text":"Home to the hostile Infection, spawning them every now and then."}]
+        "civilopediaText": [{"text":"Home to the hostile Infection, spawning Infected every now and then."}]
 	}
 ]
