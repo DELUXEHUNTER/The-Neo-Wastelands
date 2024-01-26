@@ -8,7 +8,7 @@
     "fallbackTileSet": null,
     "tileScale":0.9,
     "tileScales": {
-        "City center":1.2,
-        "Citadel":1.5
+        "City center":1.2
+    
     }
 }
