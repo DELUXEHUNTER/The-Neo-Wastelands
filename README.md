@@ -1,5 +1,5 @@
-# Neo
-This mod converts the entire base game adding completely new rules, nations, techs, buildings, terrains, ect... giving you a somewhat unique experience, I'm not really sure what I'm doing and this mod might not be the best but I'll try I guess.
+# The Neo Wastelands
+This mod converts the entire base game adding completely new rules, nations, techs, buildings, terrains, ect... giving you a somewhat unique experience, I'm not really sure what I'm doing and this mod might not be the best but If it works and people play it I will keep working on it
 
 I apologize for the horrible grammar, or unappealing visuals ect... I'm not the very best at any kind of design or other things 
 

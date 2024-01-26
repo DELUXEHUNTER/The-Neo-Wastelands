@@ -11,12 +11,13 @@
 			"Requires at least [3] population"],
 		"hurryCostModifier": 25
 		},
-		//Worker
+
 	{
 		//Worker
 		"name": "CONS Unit",
 		"unitType": "Civilian",
 		"movement": 2,
+		"cost": 70,
 		"uniques": ["Can build [Land] improvements on tiles"]
 		},
 
@@ -25,8 +26,10 @@
 		"name": "Surveyer",
 		"unitType":"Recruit level operator",
 		"movemement": 2.5,
+		"cost": 78,
 		"uniques":[]
-	}
+	},
+
 //Neo Specific
 
 	{
@@ -45,6 +48,5 @@
 		}
 	
 ]
-
 
 	
