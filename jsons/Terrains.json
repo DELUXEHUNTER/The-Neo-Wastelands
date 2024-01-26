@@ -1,5 +1,15 @@
 [
-  
+  {
+		"name": "Ocean",
+		"type": "Water",
+		"food": 1,
+		"gold": 1,
+		"movementCost": 1,
+		"RGB": [2, 104, 100],
+		"uniques": [
+			"Becomes [Coast] when adjacent to [land]" 
+		],
+
   //Terrain Features
   {
 		"name": "Hill",
