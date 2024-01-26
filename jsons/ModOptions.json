@@ -3,7 +3,7 @@
 {
     "spawnIceBelowTemperature": -0.9
 },
-"isBaseRuleset":true,
+"isBaseRuleset":false,
 "modUrl":"https://github.com/DELUXEHUNTER/Neo",
 "defaultBranch":"master","author":"Deacon",
 "topics":["unciv-mod","unciv-mod-rulesets"]
