@@ -1,8 +1,9 @@
 # Neo
-A total conversion of the base game, adding completely new nations, techs, buildings, terrains, ect... 
-
-The lore for this mod will be written as I go, or if someone would like to write the lore than they may. Anyone who wants to help in any way is welcome to add their ideas, or fix the code, stats, or edit anything if they'd like to, as long as you do not ruin the mod for anyone else and are attempting to improve the mod 
+This mod converts the entire base game adding completely new rules, nations, techs, buildings, terrains, ect... giving you a somewhat unique experience, I'm not really sure what I'm doing and this mod might not be the best but I'll try I guess.
 
 I apologize for the horrible grammar, or unappealing visuals ect... I'm not the very best at any kind of design or other things 
 
-All releases before 1.0 are private releases meant for testing and other purposes. 
+If you want to help, you can, I'd appreciate any help I can recieve 
+
+Note:
+All updates, or releases before 1.0 are private releases meant for testing and other purposes. 

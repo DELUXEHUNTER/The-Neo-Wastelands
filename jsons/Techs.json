@@ -19,7 +19,7 @@
       
     },
     {
-    "columnNumber": 2,
+    "columnNumber": 1,
     "era": "Survey Era",
     "techCost": 34,
     "buildingCost": 62,
@@ -28,7 +28,6 @@
     {
      "name":"Surveyers",
      "row":4, 
-     "prerequisites": ["Corporate Vision"],
      "quote":"'The land around us must be known'",
      "prerequisites":["Corporate Vision"],
      "uniques": [ "Notified of new Barbarian encampments"]
