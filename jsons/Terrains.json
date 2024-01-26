@@ -33,20 +33,27 @@
             "Every [19] tiles with this terrain will receive a major deposit of a strategic resource.",
             "Never receives any resources <in [Hill] tiles>"]
 	},
+//Terrain Features
 
   {
-		"name": "Snow",
-    "style": "Snow2",
-		"type": "Land",
+		"name": "Light Snow",
+		"type": "TerrainFeature",
+    "food": 2, 
 		"movementCost": 1,
-		"RGB": [229, 228, 255],
+		"overrideStats": true,
+		"defenceBonus": 0,
+		"RGB": [134, 212, 219],
+		"occursOn": ["Snow"],
 		"uniques": [
-
-            "Always Fertility [+2] for Map Generation",
-            "Becomes [Tundra] when adjacent to [River]",
-            "Every [19] tiles with this terrain will receive a major deposit of a strategic resource.",
-            "Never receives any resources <in [Hill] tiles>"]
+					"[+1] to Fertility for Map Generation",
+					"A Region is formed with at least [50]% [Light Snow] tiles, with priority [3]",
+					"Base Terrain on this tile is not counted for Region determination",
+					"Considered [Desirable] when determining start locations",
+					"Considered [Food] when determining start locations <in [Tundra] Regions>",
+					"Every [23] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
+
+
 
 
 
