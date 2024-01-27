@@ -1,7 +1,6 @@
 [
   {
-		"name": "Cave_Floor1",
-		"style": "Cave_Floor1",
+		"name": "Cave Floor1",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
