@@ -1,6 +1,6 @@
 [
   {
-		"name": "Cave Floor1",
+		"name": "CaveFloor1",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
@@ -53,7 +53,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["Cave_Floor1"],
+		"occursOn": ["CaveFloor1"],
 		"uniques": ["Rough terrain",
 					"[+4] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",
