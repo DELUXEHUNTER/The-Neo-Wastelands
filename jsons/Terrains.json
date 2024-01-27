@@ -15,7 +15,7 @@
 			"Occurs at temperature between [0.8] and [1] and humidity between [0.6] and [0.7]",
 			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
 			"[+2] to Fertility for Map Generation",
-			"A Region is formed with at least [35]% [Cave_Tile1] tiles, with priority [7]",
+			"A Region is formed with at least [35]% [Cave_Floor1] tiles, with priority [7]",
 			"A Region can not contain more [Plains] tiles than [Grassland] tiles",
 			"Considered [Desirable] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
@@ -38,7 +38,7 @@
 			"Occurs at temperature between [0.8] and [1] and humidity between [0.6] and [0.7]",
 			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
 			"[+2] to Fertility for Map Generation",
-			"A Region is formed with at least [35]% [Cave_Tile1] tiles, with priority [7]",
+			"A Region is formed with at least [35]% [Desert] tiles, with priority [7]",
 			"A Region can not contain more [Plains] tiles than [Grassland] tiles",
 			"Considered [Desirable] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
@@ -54,7 +54,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["Cave_Tile1"],
+		"occursOn": ["Cave_Floor1"],
 		"uniques": ["Rough terrain",
 					"[+4] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",
