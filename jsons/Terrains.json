@@ -1,4 +1,7 @@
 [
+{
+
+},
   {
 		"name": "CaveFloor1",
 		"type": "Land",
@@ -89,4 +92,21 @@
 
   // Hive/Barbarian
  
+
+
+  //Tundra Delete later
+  {
+	"name": "Tundra",
+	"type": "Land",
+	"food": 1,
+	"movementCost": 1,
+	"RGB": [30, 113, 69],
+},
+{
+	"name": "Snow",
+	"type": "Land",
+	"movementCost": 1,
+	"RGB": [230, 238, 255], //Darker229, 229, 255
+}
+
 ]
