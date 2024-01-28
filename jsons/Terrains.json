@@ -1,41 +1,48 @@
 [
-    {
-    "name": "Tundra",
+  {
+		"name": "CaveFloor1",
 		"type": "Land",
-		"food": 1,
+		"food": 2,
 		"movementCost": 1,
-		"RGB": [30, 113, 69],
-		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
-            "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
-            "Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
-            "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
-            "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
-            "[+2] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
-            "Considered [Food] when determining start locations <in [Tundra] Regions>",
-            "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
-	},
-    {
-		"name": "Snow",
-		"type": "Land",
-		"movementCost": 1,
-		"RGB": [229, 229, 255], //Lighter 230, 238, 255
+		"RGB": [107, 214, 152],
 		"uniques": [
-            "Occurs at temperature between [-1] and [-0.9] and humidity between [0] and [1]",
-            "Occurs at temperature between [-0.9] and [-0.8] and humidity between [0] and [0.8]",
-            "Occurs at temperature between [-0.8] and [-0.7] and humidity between [0] and [0.6]",
-            "Occurs at temperature between [-0.7] and [-0.6] and humidity between [0] and [0.4]",
-            "Occurs at temperature between [-0.6] and [-0.5] and humidity between [0] and [0.2]",
-            "Always Fertility [+2] for Map Generation",
-            "Considered [Undesirable] when determining start locations",
-            "Becomes [Tundra] when adjacent to [River]",
-            "Every [19] tiles with this terrain will receive a major deposit of a strategic resource.",
-            "Never receives any resources <in [Hill] tiles>"]
-	},
+			"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
+			"Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
+			"Occurs at temperature between [-0.5] and [0] and humidity between [0.6] and [0.7]",
+			"Occurs at temperature between [-0.5] and [-0.2] and humidity between [0.7] and [0.8]",
+			"Occurs at temperature between [0.7] and [1] and humidity between [0.7] and [1]",
+			"Occurs at temperature between [0.8] and [1] and humidity between [0.6] and [0.7]",
+			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
+			"[+2] to Fertility for Map Generation",
+			"A Region is formed with at least [35]% [Cave_Floor1] tiles, with priority [7]",
+			"Considered [Desirable] when determining start locations",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+		
 
+},
+  {
 
+		"name": "Desert",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [107, 214, 152],
+		"uniques": [
+			"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
+			"Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
+			"Occurs at temperature between [-0.5] and [0] and humidity between [0.6] and [0.7]",
+			"Occurs at temperature between [-0.5] and [-0.2] and humidity between [0.7] and [0.8]",
+			"Occurs at temperature between [0.7] and [1] and humidity between [0.7] and [1]",
+			"Occurs at temperature between [0.8] and [1] and humidity between [0.6] and [0.7]",
+			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
+			"[+2] to Fertility for Map Generation",
+			"A Region is formed with at least [35]% [Desert] tiles, with priority [7]",
+			"A Region can not contain more [Plains] tiles than [Grassland] tiles",
+			"Considered [Desirable] when determining start locations",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+		
 
+},
   //Terrain Features
   {
 		"name": "Hill",
@@ -45,7 +52,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["Tundra","Snow"],
+		"occursOn": ["CaveFloor1"],
 		"uniques": ["Rough terrain",
 					"[+4] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",

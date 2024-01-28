@@ -40,38 +40,38 @@
 
 	//test
 	{
-		"name": "NEO 2",
-		"leaderName": "T.A.L.O.N",
-		"adjective": ["Neite"],
+		"name": "Hive",
+		"leaderName": "Hivemaster",
+		"adjective": ["Infected"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "The world is ours to take.",
-		"startIntroPart2": "[Temporarily Empty]",
+		"startIntroPart1": "...",
+		"startIntroPart2": "S-spread..",
 		
-		"declaringWar": "Offensive Protocols initiated",
-		"attacked": "Defense Protocols initiated",
-		"defeated": "TIDE Protocols initiated. Self destruction imminent.",
-		"introduction": "Hello mortal being",
+		"declaringWar": "..Death...",
+		"attacked": "......",
+		"defeated": "Perfect..Failed...",
+		"introduction": "N",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "...growling",
+		"neutralLetsHearIt": ["growling..."],
+		"neutralNo": ["."],
+		"neutralYes": ["...."],
 
-		"hateHello": "What do you require?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?","No"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["."],
+		"hateYes": ["...."],
 		
 		"afterPeace": "Peace at last.",
 		"tradeRequest": "Trade protocols initiated, transaction pending.",
 
 		"outerColor": [16,10,16],
 		"innerColor": [255,220,200],
-		"uniquename": "Neitew Daze",
+		"uniquename": "Infected",
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Neo 2","OrPax 2","2 Kyron"," 2 Katheon"]
+		"cities": ["Containment Chamber"]
 	},
 	
 
@@ -112,8 +112,16 @@
 
 	{
 		"name": "Barbarians",
+		"style:": "Infection",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198, 243, 102],
 		"uniques": ["Can only heal by pillaging", "Excluded from map editor"]
+	},
+	
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+
 	}
+
 ]
