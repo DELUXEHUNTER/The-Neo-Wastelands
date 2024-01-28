@@ -85,7 +85,7 @@
           "Units ending their turn on this terrain take [45] damage",
           "Always Fertility [-4] for Map Generation",
           "Considered [Undesirable] when determining start locations"]
-}
+},
 
 
 
@@ -100,13 +100,14 @@
 	"type": "Land",
 	"food": 1,
 	"movementCost": 1,
-	"RGB": [30, 113, 69],
+	"RGB": [30, 113, 69]
+
 },
 {
 	"name": "Snow",
 	"type": "Land",
 	"movementCost": 1,
-	"RGB": [230, 238, 255], //Darker229, 229, 255
+	"RGB": [230, 238, 255] //Darker229, 229, 255
 }
 
 ]
