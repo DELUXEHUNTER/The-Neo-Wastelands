@@ -88,22 +88,6 @@
 
 
   // Hive/Barbarian
- 
-
-
-  //remove
-  {
-	"name": "Snow",
-	"type": "Land",
-	"movementCost": 1,
-	"RGB": [230, 238, 255], //Darker229, 229, 255
-  },
-  {
-	"name": "Tundra",
-	"type": "Land",
-	"food": 1,
-	"movementCost": 1,
-	"RGB": [30, 113, 69],}
 
 
 ]
