@@ -6,7 +6,7 @@
 		"name": "Neo",
 		"leaderName": "T.A.L.O.N",
 		"adjective": ["Neite"],
-		"startBias": ["Tundra"],
+		"startBias": ["CaveTile1"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The world is ours to take.",
@@ -43,7 +43,7 @@
 		"name": "Hive",
 		"leaderName": "Hivemaster",
 		"adjective": ["Infected"],
-		"startBias": ["Tundra"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "...",
