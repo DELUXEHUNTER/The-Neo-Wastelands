@@ -1,13 +1,13 @@
-Tileset.png
+game.png
 size: 68, 30
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images/TileSets/FantasyHex/Tiles/CaveFloor1
+Images/TileSets/FantasyHex/Tiles/CaveFloor
   rotate: false
   xy: 1, 1
-  size: 32, 40
-  orig: 32, 40
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 Images/TileSets/FantasyHex/Tiles/Desert
