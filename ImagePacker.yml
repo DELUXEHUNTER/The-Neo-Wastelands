@@ -63,7 +63,7 @@ object AndroidImagePacker {
         packImagesPerMod(workingPath, "$workingPath/assets/", defaultSettings)
 
         // pack for mods
-        val modDirectory = File("mods")
+        val modDirectory = File("Neo-Wastelands")
         if (!modDirectory.exists())
             return
         for (mod in modDirectory.listFiles()!!) {
