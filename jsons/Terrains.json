@@ -52,7 +52,7 @@
 		"overrideStats": true,
 		"defenceBonus": 0.25,
 		"RGB": [105,125,72],
-		"occursOn": ["CaveFloor1"],
+		"occursOn": ["CaveFloor"],
 		"uniques": ["Rough terrain",
 					"[+4] Strength for cities built on this terrain",
 					"Has an elevation of [1] for visibility calculations",
