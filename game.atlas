@@ -3,14 +3,15 @@ size: 68, 30
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images/TileSets/FantasyHex/Tiles/CaveFloor
+
+TileSets/FantasyHex/Tiles/CaveFloor
   rotate: false
   xy: 1, 1
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images/TileSets/FantasyHex/Tiles/Desert
+TileSets/FantasyHex/Tiles/Desert
   rotate: false
   xy: 35, 1
   size: 32, 28
