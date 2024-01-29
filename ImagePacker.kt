@@ -20,35 +20,16 @@ import java.nio.file.attribute.BasicFileAttributes
  */
 object AndroidImagePacker {
     private fun getDefaultSettings() = TexturePacker.Settings().apply {
-        // Apparently some chipsets, like NVIDIA Tegra 3 graphics chipset (used in Asus TF700T tablet),
-        // don't support non-power-of-two texture sizes - kudos @yuroller!
-        // https://github.com/yairm210/Unciv/issues/1340
 
-        /**
-         * These should be as big as possible in order to accommodate ALL the images together in one big file.
-         * Why? Because the rendering function of the main screen renders all the images consecutively, and every time it needs to switch between textures,
-         * this causes a delay, leading to horrible lag if there are enough switches.
-         * The cost of this specific solution is that the entire game.png needs be be kept in-memory constantly.
-         * Now here we come to what Fred Colon would call an Imp Arse.
-         * On the one hand, certain tilesets (ahem 5hex ahem) are really big.
-         * You wouldn't believe how hugely mindbogglingly big they are. So theoretically we should want all of their images to be together.
-         * HOWEVER certain chipsets (see https://github.com/yairm210/Unciv/issues/3330) only seem to support to up to 2048 width*height so this is maximum we can have.
-         * Practically this means that big custom tilesets will have to reload the texture a lot when covering the map and so the
-         *    panning on the map will tend to lag a lot :(
-         *
-         *    TL;DR this should be 2048.
-         */
         maxWidth = 2048
         maxHeight = 2048
-
-        // Trying to disable the subdirectory combine lead to even worse results. Don't.
         combineSubdirectories = true
         pot = true  // powers of two only for width/height
         fast = true  // with pot on this just sorts by width
-        // settings.rotation - do not set. Allows rotation, potentially packing tighter.
+       
         //      Proper rendering is mostly automatic - except borders which overwrite rotation.
 
-        // Set some additional padding and enable duplicatePadding to prevent image edges from bleeding into each other due to mipmapping
+    
         paddingX = 8
         paddingY = 8
         duplicatePadding = true
@@ -60,10 +41,10 @@ object AndroidImagePacker {
         val defaultSettings = getDefaultSettings()
 
         // Scan for Image folders and build one atlas each
-        packImagesPerMod(workingPath, "$workingPath/assets/", defaultSettings)
+        packImagesPerMod(workingPath, "$Neo-Wastelands/Images/", defaultSettings)
 
         // pack for mods
-        val modDirectory = File("Neo-Wastelands")
+        val modDirectory = File("mods")
         if (!modDirectory.exists())
             return
         for (mod in modDirectory.listFiles()!!) {
