@@ -2,7 +2,7 @@
     {
         "useColorAsBaseTerrain": "false",
         "ruleVariants": {
-            "CaveFloor1+Hills": ["CaveTile1","Hills"]
+            "CaveFloor+Hills": ["CaveFloor","Hills"]
     }
 
 }

@@ -1,6 +1,6 @@
 [
   {
-		"name": "CaveFloor1",
+		"name": "CaveFloor",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
@@ -14,7 +14,7 @@
 			"Occurs at temperature between [0.8] and [1] and humidity between [0.6] and [0.7]",
 			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
 			"[+2] to Fertility for Map Generation",
-			"A Region is formed with at least [35]% [CaveFloor1] tiles, with priority [7]",
+			"A Region is formed with at least [35]% [CaveFloor] tiles, with priority [7]",
 			"Considered [Desirable] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 		
@@ -37,7 +37,7 @@
 			"Occurs at temperature between [0.9] and [1] and humidity between [0.5] and [0.6]",
 			"[+2] to Fertility for Map Generation",
 			"A Region is formed with at least [35]% [Desert] tiles, with priority [7]",
-			"A Region can not contain more [Desert] tiles than [CaveFloor1] tiles",
+			"A Region can not contain more [Desert] tiles than [CaveFloor] tiles",
 			"Considered [Desirable] when determining start locations",
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 		
