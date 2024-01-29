@@ -1,8 +1,7 @@
 # The Neo Wastelands
 
-Neo Wastelands converts the entire base game adding completely new rules, nations, techs, buildings, terrains, ect... giving you a somewhat unique experience, I'm not really sure whadoing and this mod might not be the best but If it works and people play it I will keep working on it
+The Neo wastelands mod converts the entire game of unciv into a space world adding completely new nations, techs, buildings, terrains and more! Giving you a somewhat unique experience. I'm not entirely sure where I'm going to go with this mod but I do know I'm going to try my best to make a unique mod, I'm sorry for any horrible grammar, misspellings or unappealing visuals[tiles, units, ect..]
 
-I apologize for the horrible grammar, or unappealing visuals I'm not the very best at any kind of design or other things.
+Anyone can help with this mod as long as they do not ruin the experience for players by removing entire portions of the mod that would change it drastically all at one time. So with that being said please enjoy, the wastelands. 
 
-
-I'd appreciate any help I can recieve, it could even be to help better describe certain parts or fix grammar in anything.
+Note: This mod does not work at all yet.
