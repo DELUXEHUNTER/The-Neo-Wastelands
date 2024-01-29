@@ -1,5 +1,5 @@
 Tileset.png
-size: 68, 30
+size: 140, 90
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
